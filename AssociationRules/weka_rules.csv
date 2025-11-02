@@ -1,0 +1,101 @@
+Antécédent,Conséquent,Support,Confiance,Lift
+Reinforcement Learning,TensorFlow,0.09,0.43,1.05
+Keras,Scikit-learn,0.0875,0.43,1.08
+Hugging Face,LangChain,0.087,0.43,1.05
+Pandas,FastAPI,0.0905,0.42,1.04
+GCP,TensorFlow,0.0845,0.42,1.01
+R,LangChain,0.082,0.42,1.03
+Azure,LangChain,0.086,0.42,1.03
+AWS,LangChain,0.084,0.42,1.03
+Reinforcement Learning,FastAPI,0.086,0.42,1.02
+Pandas,TensorFlow,0.0885,0.41,1.0
+Excel,Scikit-learn,0.0895,0.41,1.04
+Python,MLflow,0.0825,0.41,1.01
+Hugging Face,Scikit-learn,0.0835,0.41,1.03
+Azure,Scikit-learn,0.0845,0.41,1.03
+Power BI,LangChain,0.0825,0.41,1.01
+CUDA,FastAPI,0.081,0.41,1.01
+Cplusplus,FastAPI,0.0795,0.41,1.0
+Flask,FastAPI,0.0805,0.4,1.0
+SQL,LangChain,0.0825,0.4,1.0
+Keras,TensorFlow,0.082,0.4,0.98
+AWS,FastAPI,0.0815,0.4,0.99
+Excel,PyTorch,0.087,0.4,1.02
+R,TensorFlow,0.079,0.4,0.97
+NumPy,Scikit-learn,0.0835,0.4,1.01
+CUDA,TensorFlow,0.0795,0.4,0.97
+Python,Scikit-learn,0.0805,0.4,1.01
+GCP,Scikit-learn,0.0805,0.4,1.0
+Power BI,MLflow,0.0805,0.4,0.98
+Power BI,Scikit-learn,0.0805,0.4,1.0
+Excel,TensorFlow,0.086,0.4,0.97
+Power BI,TensorFlow,0.08,0.4,0.96
+Python,LangChain,0.0795,0.4,0.98
+GCP,PyTorch,0.0795,0.39,1.0
+FastAPI,TensorFlow,0.1595,0.39,0.95
+SQL,MLflow,0.08,0.39,0.97
+Pandas,PyTorch,0.0835,0.39,1.0
+PyTorch,TensorFlow,0.1535,0.39,0.95
+Cplusplus,PyTorch,0.076,0.39,0.99
+Flask,MLflow,0.0775,0.39,0.96
+NumPy,FastAPI,0.081,0.39,0.96
+NumPy,TensorFlow,0.081,0.39,0.94
+Excel,LangChain,0.084,0.39,0.96
+KDBplus,LangChain,0.097,0.39,0.96
+AWS,TensorFlow,0.0785,0.39,0.94
+Scikit-learn,LangChain,0.1545,0.39,0.96
+MLflow,FastAPI,0.057,0.39,0.96
+Hugging Face,TensorFlow,0.079,0.39,0.94
+TensorFlow,FastAPI,0.1595,0.39,0.95
+Reinforcement Learning,MLflow,0.08,0.39,0.95
+Pandas,LangChain,0.0825,0.39,0.95
+Pandas,MLflow,0.0825,0.39,0.95
+Pandas,Scikit-learn,0.0825,0.39,0.97
+MLflow,FastAPI,0.1565,0.39,0.95
+Python,PyTorch,0.0775,0.39,0.98
+FastAPI,MLflow,0.1565,0.39,0.95
+CUDA,MLflow,0.0765,0.39,0.95
+Excel,FastAPI,0.083,0.38,0.95
+Keras,FastAPI,0.078,0.38,0.95
+Power BI,FastAPI,0.0775,0.38,0.94
+GCP,MLflow,0.0775,0.38,0.95
+Cplusplus,TensorFlow,0.0745,0.38,0.93
+Reinforcement Learning,PyTorch,0.079,0.38,0.97
+LangChain,Scikit-learn,0.1545,0.38,0.96
+PyTorch,MLflow,0.1495,0.38,0.94
+Azure,TensorFlow,0.0785,0.38,0.92
+FastAPI,TensorFlow,0.053,0.38,0.92
+SQL,FastAPI,0.0775,0.38,0.94
+SQL,TensorFlow,0.0775,0.38,0.92
+Excel,MLflow,0.082,0.38,0.94
+Cplusplus,MLflow,0.074,0.38,0.94
+Flask,LangChain,0.0755,0.38,0.94
+Keras,MLflow,0.077,0.38,0.94
+PyTorch,Scikit-learn,0.149,0.38,0.95
+R,PyTorch,0.0745,0.38,0.96
+LangChain,MLflow,0.1535,0.38,0.93
+FastAPI,MLflow,0.057,0.38,0.93
+MLflow,LangChain,0.1535,0.38,0.93
+BigQuery,TensorFlow,0.0935,0.38,0.92
+MLflow,FastAPI,0.0575,0.38,0.93
+Scikit-learn,FastAPI,0.1505,0.38,0.93
+Scikit-learn,TensorFlow,0.1505,0.38,0.92
+Azure,PyTorch,0.078,0.38,0.96
+Hugging Face,MLflow,0.077,0.38,0.93
+Cplusplus,Scikit-learn,0.0735,0.38,0.95
+Flask,PyTorch,0.075,0.38,0.96
+KDBplus,PyTorch,0.094,0.38,0.96
+AWS,MLflow,0.076,0.38,0.93
+Python,FastAPI,0.0755,0.38,0.93
+Python,TensorFlow,0.0755,0.38,0.91
+CUDA,PyTorch,0.0745,0.38,0.95
+SQL,Scikit-learn,0.0765,0.38,0.94
+MLflow,TensorFlow,0.152,0.37,0.91
+MLflow,TensorFlow,0.056,0.37,0.91
+Keras,PyTorch,0.076,0.37,0.95
+Scikit-learn,PyTorch,0.149,0.37,0.95
+LangChain,FastAPI,0.1515,0.37,0.92
+GCP,LangChain,0.0755,0.37,0.92
+FastAPI,LangChain,0.1515,0.37,0.92
+TensorFlow,PyTorch,0.1535,0.37,0.95
+Flask,Scikit-learn,0.074,0.37,0.93

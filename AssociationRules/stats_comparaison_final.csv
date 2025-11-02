@@ -1,0 +1,5 @@
+Métrique,Python,Weka
+Nombre de règles,26.0,100.0
+Support moyen,0.152,0.093
+Lift moyen,1.0,0.966
+Confiance moyenne,0.376,0.391
