@@ -34,7 +34,7 @@ min_sup = int((mean + 0.5 * std_dev) / 2)
 
 Méthode **adaptative** qui ajuste le support selon la densité des données.
 
-##📈 Résultats attendus
+## 📈 Résultats attendus
 
 Règles d’association pertinentes pour le marché de l’IA
 
@@ -42,7 +42,7 @@ Gains de temps et précision grâce au support automatisé
 
 Visualisation claire des différences entre les deux approches
 
-##🏁 Conclusion
+## 🏁 Conclusion
 
 Ce projet montre l’apport d’une approche hybride dans le calcul de support pour améliorer l'extraction de connaissance via l’algorithme Apriori, tout en facilitant le processus via une automatisation et des outils d’analyse.
 ---
